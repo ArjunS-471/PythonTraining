@@ -1,0 +1,3 @@
+def middle_char(s):
+    middle_char = len(s) // 2
+    
