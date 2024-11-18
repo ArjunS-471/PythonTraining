@@ -20,9 +20,11 @@ df_customers = pd.read_sql_query(query, connection)
 
 # pandas code here
 df_customers.groupby("BillingCountry")['Total'].sum().reset_index
-
 print(df_customers)
 
+
+df_customers.to_sql('summary_sales_by_country',connection,if_exists='replace',index=False)
+print('Data written into sqllite')
 # curr.execute("DELETE FROM 'Customer' WHERE CustomerId = 60;")
 # connection.commit()
 
