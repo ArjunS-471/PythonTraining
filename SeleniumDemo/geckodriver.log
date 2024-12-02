@@ -533,3 +533,1420 @@ mightThrow@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice
 Deferred/then/resolve/</process<@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.scribunto.logs%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=ll72d:298:309
 
 Dynamically enable window occlusion 1
+1733107007663	geckodriver	INFO	Listening on 127.0.0.1:50617
+1733107010782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50618" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilek9XxUw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733107011211	Marionette	INFO	Marionette enabled
+1733107011395	Marionette	INFO	Listening on port 50625
+WebDriver BiDi listening on ws://127.0.0.1:50618
+Read port: 50625
+1733107011644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2148 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5555 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 98: Script terminated by timeout at:
+n.equals@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:98:1375
+Lp@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:266:1070
+R/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1451
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:473
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+yd/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:303
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+T/</</d<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:102:355
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+R/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1469
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:473
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:473
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+ih/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:320
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+R/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1469
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:473
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+R/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1469
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:473
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+Bd/k/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:510
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+1733107035771	Marionette	INFO	Stopped listening on port 50625
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1733107057802	geckodriver	INFO	Listening on 127.0.0.1:50834
+1733107060867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilebBLJC1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733107061316	Marionette	INFO	Marionette enabled
+1733107061492	Marionette	INFO	Listening on port 50842
+WebDriver BiDi listening on ws://127.0.0.1:50835
+Read port: 50842
+1733107061682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1734 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7479 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3199 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6849 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5492 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1555 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1283 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: chrome://mozapps/content/extensions/aboutaddons.js, line 483: TypeError: URL constructor: http://%(server)s/extensions-dummy/repositoryBrowseURL is not a valid URL.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://7e083d96-b63a-4cc9-b4ea-c5932e67dcef/pages/content-script-start.js, line 10057: Error: Could not establish connection. Receiving end does not exist.
+console.error: ({})
+JavaScript warning: https://addons.mozilla.org/static-frontend/amo-424d7e1d8154d7968fbb.js, line 7: Script terminated by timeout at:
+ii/<@https://addons.mozilla.org/static-frontend/amo-424d7e1d8154d7968fbb.js:7:26217
+t@https://addons.mozilla.org/static-frontend/amo-424d7e1d8154d7968fbb.js:7:26077
+
+JavaScript warning: https://a.vdo.ai/core/assets/player/vdo.player.8.0.js, line 2: Script terminated by timeout at:
+an/this.timeupdateHandler<@https://a.vdo.ai/core/assets/player/vdo.player.8.0.js:2:156638
+
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1863111294, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1863111294:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1863111294:442:29
+
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.sys.mjs :: runSafeSyncWithoutClone :: line 61"  data: no] undefined 61
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:61:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.sys.mjs:72:37
+inject/cssPromise<@resource://gre/modules/ExtensionContent.sys.mjs:611:36
+]]
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://welcome.adguard.com/v4/chrome/thankyou.html" ({})
+1733107191528	Marionette	INFO	Stopped listening on port 50842
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1733107196740	geckodriver	INFO	Listening on 127.0.0.1:51229
+1733107199809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51230" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileIKPdk6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733107200302	Marionette	INFO	Marionette enabled
+1733107200515	Marionette	INFO	Listening on port 51237
+Read port: 51237
+WebDriver BiDi listening on ws://127.0.0.1:51230
+1733107200609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4044 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1579 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6887 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/sdkloader/ima3.js, line 148: Script terminated by timeout at:
+sl@https://imasdk.googleapis.com/js/sdkloader/ima3.js:148:309
+xl.prototype.sendBeacon@https://imasdk.googleapis.com/js/sdkloader/ima3.js:150:351
+tl@https://imasdk.googleapis.com/js/sdkloader/ima3.js:149:249
+xl/this.ba<@https://imasdk.googleapis.com/js/sdkloader/ima3.js:146:426
+f@https://imasdk.googleapis.com/js/sdkloader/ima3.js:112:1203
+Rh/<@https://imasdk.googleapis.com/js/sdkloader/ima3.js:112:1258
+xl/this.da@https://imasdk.googleapis.com/js/sdkloader/ima3.js:147:59
+
+1733107259129	Marionette	INFO	Stopped listening on port 51237
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1733107263626	geckodriver	INFO	Listening on 127.0.0.1:51545
+1733107266724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51546" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileJFoarJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733107267126	Marionette	INFO	Marionette enabled
+1733107267306	Marionette	INFO	Listening on port 51553
+WebDriver BiDi listening on ws://127.0.0.1:51546
+Read port: 51553
+1733107267493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+1733107274850	Marionette	INFO	Stopped listening on port 51553
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1733108741047	geckodriver	INFO	Listening on 127.0.0.1:52263
+1733108744140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52264" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileW8V8ZZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733108744554	Marionette	INFO	Marionette enabled
+1733108744704	Marionette	INFO	Listening on port 52271
+WebDriver BiDi listening on ws://127.0.0.1:52264
+Read port: 52271
+1733108744892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1733108972200	Marionette	INFO	Stopped listening on port 52271
+Dynamically enable window occlusion 1
+console.error: "Error in worker resource://devtools/client/shared/source-map-loader/worker.js" ": "
+1733108983253	geckodriver	INFO	Listening on 127.0.0.1:52482
+1733108986326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile9E7NCv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733108986733	Marionette	INFO	Marionette enabled
+1733108986901	Marionette	INFO	Listening on port 52490
+WebDriver BiDi listening on ws://127.0.0.1:52483
+Read port: 52490
+1733108987062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk, line 97: Script terminated by timeout at:
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/queue.flush@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:97:515
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/<@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:97:583
+
+1733109004547	Marionette	INFO	Stopped listening on port 52490
+Dynamically enable window occlusion 1
+1733109514313	geckodriver	INFO	Listening on 127.0.0.1:52658
+1733109517379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileS4vxCq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733109517760	Marionette	INFO	Marionette enabled
+1733109517911	Marionette	INFO	Listening on port 52668
+WebDriver BiDi listening on ws://127.0.0.1:52659
+Read port: 52668
+1733109518075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk, line 97: Script terminated by timeout at:
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/queue.flush@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:97:515
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/<@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:97:583
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1733109580415	Marionette	INFO	Stopped listening on port 52668
+Dynamically enable window occlusion 1
+console.error: "Error in worker resource://devtools/client/shared/source-map-loader/worker.js" ": "
+1733109724005	geckodriver	INFO	Listening on 127.0.0.1:52749
+1733109727101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52750" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilegziQsU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733109727500	Marionette	INFO	Marionette enabled
+1733109727652	Marionette	INFO	Listening on port 52757
+WebDriver BiDi listening on ws://127.0.0.1:52750
+Read port: 52757
+1733109727824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733109732267	Marionette	INFO	Stopped listening on port 52757
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk, line 351: Script terminated by timeout at:
+pixelBoxStyles@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:351:795
+curCSS@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:353:187
+css@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:358:64
+set@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:358:861
+style@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:357:543
+jQuery.fn[funcName]/<@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:408:549
+access@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:318:947
+jQuery.fn[funcName]@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:408:150
+justify/<@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:676:674
+justify@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:676:973
+each@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:274:232
+each@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:272:42
+@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.phonos.init%7Cext.scribunto.logs%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.gallery%2Cmedia%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022%7Cwikibase.sidebar.tracking&skin=vector-2022&version=19isk:678:478
+
+Dynamically enable window occlusion 1
+1733111259538	geckodriver	INFO	Listening on 127.0.0.1:53243
+1733111262623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53244" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileA3lteZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733111263103	Marionette	INFO	Marionette enabled
+1733111263259	Marionette	INFO	Listening on port 53252
+WebDriver BiDi listening on ws://127.0.0.1:53244
+Read port: 53252
+1733111263473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+1733111272567	Marionette	INFO	Stopped listening on port 53252
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 239: Script terminated by timeout at:
+get@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:239:60
+yp@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:263:101
+xp@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:261:324
+mr@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:287:3355
+ts@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:314:88
+n.start@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:312:204
+Vr.prototype.start/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:302:139
+Vr.prototype.start@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:302:105
+@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:354:283
+@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:354:372
+@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:354:382
+
+JavaScript error: https://02b5f7701c98f0343169012e2632e20c.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 17: ReferenceError: osdlfm is not defined
+Dynamically enable window occlusion 1
+1733111312684	geckodriver	INFO	Listening on 127.0.0.1:53412
+1733111315751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexKSLKX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733111316171	Marionette	INFO	Marionette enabled
+1733111316342	Marionette	INFO	Listening on port 53422
+WebDriver BiDi listening on ws://127.0.0.1:53413
+Read port: 53422
+1733111316504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+1733111323680	Marionette	INFO	Stopped listening on port 53422
+JavaScript warning: https://code.highcharts.com/highcharts.js, line 9: Script terminated by timeout at:
+setClip@https://code.highcharts.com/highcharts.js:9:164201
+afterAnimate@https://code.highcharts.com/highcharts.js:9:165219
+render/t.animationTimeout<@https://code.highcharts.com/highcharts.js:9:170792
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1733111438786	geckodriver	INFO	Listening on 127.0.0.1:53591
+1733111441886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileExhMTS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733111442305	Marionette	INFO	Marionette enabled
+1733111442499	Marionette	INFO	Listening on port 53600
+WebDriver BiDi listening on ws://127.0.0.1:53592
+Read port: 53600
+1733111442679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+1733111449019	Marionette	INFO	Stopped listening on port 53600
+JavaScript warning: https://ep2.adtrafficquality.google/sodar/sodar2.js, line 2: Script terminated by timeout at:
+ba@https://ep2.adtrafficquality.google/sodar/sodar2.js:2:262
+@https://ep2.adtrafficquality.google/sodar/sodar2.js:2:271
+@https://ep2.adtrafficquality.google/sodar/sodar2.js:44:403
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1733111540274	geckodriver	INFO	Listening on 127.0.0.1:53772
+1733111543357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53773" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileyzKyIi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733111543803	Marionette	INFO	Marionette enabled
+1733111543964	Marionette	INFO	Listening on port 53780
+Read port: 53780
+WebDriver BiDi listening on ws://127.0.0.1:53773
+1733111544039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+1733111551867	Marionette	INFO	Stopped listening on port 53780
+JavaScript warning: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/runtime.f1210af3518e525e94d7.js, line 5: Script terminated by timeout at:
+a@https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/runtime.f1210af3518e525e94d7.js:5:334
+@https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/1829.1d41207f53b42b7a2cba.js:1:65
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1733111667240	geckodriver	INFO	Listening on 127.0.0.1:53957
+1733111670329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53958" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiley9aKk2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733111670810	Marionette	INFO	Marionette enabled
+1733111670963	Marionette	INFO	Listening on port 53965
+WebDriver BiDi listening on ws://127.0.0.1:53958
+Read port: 53965
+1733111671140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6551 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 621 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3499 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1642 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1660 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733111686688	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733111686719	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1913 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733111689997	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4753 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733111718489	Marionette	INFO	Stopped listening on port 53965
+JavaScript warning: https://s0.2mdn.net/879366/Enabler_01_252.js, line 125: Script terminated by timeout at:
+Ah.prototype.A@https://s0.2mdn.net/879366/Enabler_01_252.js:125:667
+
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1141485996, line 173: Script terminated by timeout at:
+Lm/<@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1141485996:173:1126
+
+JavaScript warning: https://stdb.bidsxchange.com/AdCode.js, line 15: Script terminated by timeout at:
+start_bsrvtagThreadHandler/bsrvtagThreadHandle<@https://stdb.bidsxchange.com/AdCode.js:15:7
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1733111810044	geckodriver	INFO	Listening on 127.0.0.1:54353
+1733111813120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54354" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileemDm3p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733111813533	Marionette	INFO	Marionette enabled
+1733111813697	Marionette	INFO	Listening on port 54361
+WebDriver BiDi listening on ws://127.0.0.1:54354
+Read port: 54361
+1733111813860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 612 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4541 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7163 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7605 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7615 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6155 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733111828354	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733111828426	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6591 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733111831173	Marionette	INFO	Stopped listening on port 54361
+JavaScript warning: https://unpkg.com/@dotlottie/player-component@2.7.12/dist/lottie_svg-MJGYILXD-NRTSROOT.mjs, line 5: Script terminated by timeout at:
+p@https://unpkg.com/@dotlottie/player-component@2.7.12/dist/lottie_svg-MJGYILXD-NRTSROOT.mjs:5:18012
+
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1733112016073	geckodriver	INFO	Listening on 127.0.0.1:54707
+1733112019141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54708" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile3f501c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733112019557	Marionette	INFO	Marionette enabled
+1733112019723	Marionette	INFO	Listening on port 54715
+WebDriver BiDi listening on ws://127.0.0.1:54708
+Read port: 54715
+1733112019914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7580 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4746 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733112038466	Marionette	INFO	Stopped listening on port 54715
+JavaScript warning: https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js, line 422: Script terminated by timeout at:
+init_tp/This.task<@https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js:422:20
+
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1733112261383	geckodriver	INFO	Listening on 127.0.0.1:55032
+1733112264458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile6gwmsv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733112264878	Marionette	INFO	Marionette enabled
+1733112265032	Marionette	INFO	Listening on port 55041
+WebDriver BiDi listening on ws://127.0.0.1:55033
+Read port: 55041
+1733112265226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4414 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1213521007, line 445: Script terminated by timeout at:
+LB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1213521007:445:275
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1213521007:442:342
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 13: Script terminated by timeout at:
+C@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:13:325
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:449
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1148 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5899 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5189 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7426 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_975374275, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_975374275:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_975374275:442:29
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.5180165585201154%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.5180165585201154%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3137
+r/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.5180165585201154%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3642
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13833
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6208 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.moneycontrol.com/, line 8944: TypeError: slider is null
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/responsive/radar/market_radar_aws_revamp.js?v=03112020_1700, line 3175: unreachable code after return statement
+JavaScript warning: https://stat2.moneycontrol.com/mcjs/responsive/radar/market_radar_aws_revamp.js?v=03112020_1700, line 3181: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 316 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/ol2Pwhg52TvQQNILWNhGlE6oofe6M6saszf4SS0CR3o.js line 2 > eval line 3187 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://tpc.googlesyndication.com/safeframe/1-0-40/js/ext.js, line 10: Script terminated by timeout at:
+y@https://tpc.googlesyndication.com/safeframe/1-0-40/js/ext.js:10:984
+ab@https://tpc.googlesyndication.com/safeframe/1-0-40/js/ext.js:10:13440
+O.prototype.K@https://tpc.googlesyndication.com/safeframe/1-0-40/js/ext.js:10:13616
+
+JavaScript warning: https://www.youtube.com/s/player/b46bb280/www-embed-player.vflset/www-embed-player.js, line 922: Script terminated by timeout at:
+$l/<@https://www.youtube.com/s/player/b46bb280/www-embed-player.vflset/www-embed-player.js:922:47
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=rtus&topUrl=www.moneycontrol.com&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=-1#{%22lwid%22:{%22value%22:null,%22origin%22:0},%22bundle%22:{%22value%22:%22XzyqRl9OYkJTZUg5UDU3NEpGYjdhSm1aRWhYUDhzOVdTSUl5WmNEU3lmOSUyQmpRdjBnR1V6cmlhNkgxU0tNTVBtdyUyRjJKJTJGZHRlMUlkMG9iejRwNnN1MDQ0MkllN3JMTHJ6NkRpYklGaW1KWHdBcFBRQVkycjZFTkhibTZUWmJVWGpFQ3N0MENJaHNNTkJVRDdhUzNSVFBPNm81SlElM0QlM0Q%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22rtus%22,%22rtusCallerId%22:72,%22requestId%22:%220.4515453242035178%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=rtus&topUrl=www.moneycontrol.com&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=-1#{%22lwid%22:{%22value%22:null,%22origin%22:0},%22bundle%22:{%22value%22:%22XzyqRl9OYkJTZUg5UDU3NEpGYjdhSm1aRWhYUDhzOVdTSUl5WmNEU3lmOSUyQmpRdjBnR1V6cmlhNkgxU0tNTVBtdyUyRjJKJTJGZHRlMUlkMG9iejRwNnN1MDQ0MkllN3JMTHJ6NkRpYklGaW1KWHdBcFBRQVkycjZFTkhibTZUWmJVWGpFQ3N0MENJaHNNTkJVRDdhUzNSVFBPNm81SlElM0QlM0Q%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22rtus%22,%22rtusCallerId%22:72,%22requestId%22:%220.4515453242035178%22}:13:3137
+r/<@https://gum.criteo.com/syncframe?origin=rtus&topUrl=www.moneycontrol.com&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=-1#{%22lwid%22:{%22value%22:null,%22origin%22:0},%22bundle%22:{%22value%22:%22XzyqRl9OYkJTZUg5UDU3NEpGYjdhSm1aRWhYUDhzOVdTSUl5WmNEU3lmOSUyQmpRdjBnR1V6cmlhNkgxU0tNTVBtdyUyRjJKJTJGZHRlMUlkMG9iejRwNnN1MDQ0MkllN3JMTHJ6NkRpYklGaW1KWHdBcFBRQVkycjZFTkhibTZUWmJVWGpFQ3N0MENJaHNNTkJVRDdhUzNSVFBPNm81SlElM0QlM0Q%22,%22origin%22:3},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22rtus%22,%22rtusCallerId%22:72,%22requestId%22:%220.4515453242035178%22}:13:3642
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13833
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5223 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1207 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5366 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 567 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3941 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22XzyqRl9OYkJTZUg5UDU3NEpGYjdhSm1aRWhYUDhzOVdTSUl5WmNEU3lmOSUyQmpRdjBnR1V6cmlhNkgxU0tNTVBtdyUyRjJKJTJGZHRlMUlkMG9iejRwNnN1MDQ0MkllN3JMTHJ6NkRpYklGaW1KWHdBcFBRQVkycjZFTkhibTZUWmJVWGpFQ3N0MENJaHNNTkJVRDdhUzNSVFBPNm81SlElM0QlM0Q%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.5804301978914594%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22XzyqRl9OYkJTZUg5UDU3NEpGYjdhSm1aRWhYUDhzOVdTSUl5WmNEU3lmOSUyQmpRdjBnR1V6cmlhNkgxU0tNTVBtdyUyRjJKJTJGZHRlMUlkMG9iejRwNnN1MDQ0MkllN3JMTHJ6NkRpYklGaW1KWHdBcFBRQVkycjZFTkhibTZUWmJVWGpFQ3N0MENJaHNNTkJVRDdhUzNSVFBPNm81SlElM0QlM0Q%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.5804301978914594%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3137
+r/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22XzyqRl9OYkJTZUg5UDU3NEpGYjdhSm1aRWhYUDhzOVdTSUl5WmNEU3lmOSUyQmpRdjBnR1V6cmlhNkgxU0tNTVBtdyUyRjJKJTJGZHRlMUlkMG9iejRwNnN1MDQ0MkllN3JMTHJ6NkRpYklGaW1KWHdBcFBRQVkycjZFTkhibTZUWmJVWGpFQ3N0MENJaHNNTkJVRDdhUzNSVFBPNm81SlElM0QlM0Q%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.5804301978914594%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3642
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 84: Script terminated by timeout at:
+n.We@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:425
+dd.prototype.za@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:154
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:216
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
+md.prototype.za@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1840
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:734
+ld/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1645
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+ih/c/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:268
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
+T/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:102:314
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+P/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:1197
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+Wd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:1544
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+ih/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:320
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4042 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4977 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1516 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 100 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7097 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6012 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6925 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7695 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1941 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval line 6855 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1280563983, line 445: Script terminated by timeout at:
+PB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1280563983:445:102
+T@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1280563983:448:623
+ND@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1280563983:492:509
+OD/<@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1280563983:484:970
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1280563983:442:103
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 90: Script terminated by timeout at:
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1354
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+ih/c/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:268
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
+T/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:102:314
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+P/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:1197
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+Wd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:1544
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+ih/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:320
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22xsOu_F9OYkJTZUg5UDU3NEpGYjdhSm1aRWhRemtzWHhrSmt2USUyRml0RThJTDk4TXNIJTJCa3BqM3BhQnBHUUZsbzRublVGR0Y2JTJGZk1UUjljQUdpUWJTMUl3YSUyQmlkbFVLa29HZ0hHbVM4eFBRYzRld3p1Tk9MM0RIbWdrZ3RiTGdtYU5UbVdSMUE5SjVhUnBqT3cydWpKRzBHQmczZyUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.3278545470725184%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22xsOu_F9OYkJTZUg5UDU3NEpGYjdhSm1aRWhRemtzWHhrSmt2USUyRml0RThJTDk4TXNIJTJCa3BqM3BhQnBHUUZsbzRublVGR0Y2JTJGZk1UUjljQUdpUWJTMUl3YSUyQmlkbFVLa29HZ0hHbVM4eFBRYzRld3p1Tk9MM0RIbWdrZ3RiTGdtYU5UbVdSMUE5SjVhUnBqT3cydWpKRzBHQmczZyUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.3278545470725184%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3137
+r/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22xsOu_F9OYkJTZUg5UDU3NEpGYjdhSm1aRWhRemtzWHhrSmt2USUyRml0RThJTDk4TXNIJTJCa3BqM3BhQnBHUUZsbzRublVGR0Y2JTJGZk1UUjljQUdpUWJTMUl3YSUyQmlkbFVLa29HZ0hHbVM4eFBRYzRld3p1Tk9MM0RIbWdrZ3RiTGdtYU5UbVdSMUE5SjVhUnBqT3cydWpKRzBHQmczZyUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.3278545470725184%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3642
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6235 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3847 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2948 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4897 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6889 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnH1733112746769	Marionette	INFO	Listening on port 56161
+WebDriver BiDi listening on ws://127.0.0.1:56148
+Read port: 56161
+1733112746996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2546 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 90: Script terminated by timeout at:
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:879
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:473
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+R/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1469
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+Wd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:1544
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+ih/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:320
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_980974383, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_980974383:444:310
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_980974383:442:29
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13833
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1351 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7339 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3528 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 13: Script terminated by timeout at:
+C@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:13:325
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:449
+
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1719419018, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1719419018:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1719419018:442:29
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+1733112774029	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733112774030	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733112774031	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733112774032	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733112774033	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+1733112778444	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6595 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 299 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2977 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7664 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733112783497	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733112783501	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733112785665	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3564 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1781110062, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1781110062:444:310
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1781110062:442:29
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.8786221174461046%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.8786221174461046%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3418
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.8786221174461046%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3152
+r/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.8786221174461046%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3642
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: Script terminated by timeout at:
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:13850
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:15290
+
+JavaScript error: https://stat2.moneycontrol.com/assets/js/stocks/stockdetails.js?v=33.51, line 1014: ReferenceError: checkTimeSpan is not defined
+1733112791612	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2134 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2021 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6028 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4645 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4252 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4172 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7354 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733112803020	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733112803848	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733112803942	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1242812808, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1242812808:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1242812808:442:29
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:13833
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+1733112808635	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733112808635	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733112808636	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733112808637	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733112808637	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/9772.0967c8fb7beae0056cf7.js, line 15: TypeError: window.ChartApiInstance is null
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 13: Script terminated by timeout at:
+C@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:13:325
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:449
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13742
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 778 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3800 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_923435806, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_923435806:444:310
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_923435806:442:29
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13833
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5207 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2618 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1854 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7240 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2357 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7360 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 577 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4342 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733112828367	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733112828457	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_375154002, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_375154002:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_375154002:442:29
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=162412&userIdMacro=PM_UID&gdpr=0&gdpr_consent=&us_privacy=1---&&predirect=https%3A%2F%2Fads.servenobid.com%2Fsync%3Fpid%3D316%26uid%3DPM_UID, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?p=162412&userIdMacro=PM_UID&gdpr=0&gdpr_consent=&us_privacy=1---&&predirect=https%3A%2F%2Fads.servenobid.com%2Fsync%3Fpid%3D316%26uid%3DPM_UID:1:13742
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?p=162412&userIdMacro=PM_UID&gdpr=0&gdpr_consent=&us_privacy=1---&&predirect=https%3A%2F%2Fads.servenobid.com%2Fsync%3Fpid%3D316%26uid%3DPM_UID:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?p=162412&userIdMacro=PM_UID&gdpr=0&gdpr_consent=&us_privacy=1---&&predirect=https%3A%2F%2Fads.servenobid.com%2Fsync%3Fpid%3D316%26uid%3DPM_UID:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?p=162412&userIdMacro=PM_UID&gdpr=0&gdpr_consent=&us_privacy=1---&&predirect=https%3A%2F%2Fads.servenobid.com%2Fsync%3Fpid%3D316%26uid%3DPM_UID:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+1733112831610	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733112831612	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733112831612	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733112831612	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733112831613	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 81: Script terminated by timeout at:
+vc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:143
+wc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:55
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:663
+ih/c/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:268
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
+R/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1403
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+M/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:441
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+Le/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:124
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+hf/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:102:710
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+oo/</m<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:242:2180
+oo/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:242:2153
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
+Le/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:124
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+M/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:441
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+hf/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:102:710
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+md.prototype.connect@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:111
+ld/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1673
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+md.prototype.connect@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:111
+ld/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1673
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+md.prototype.connect@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:111
+ld/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1673
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+md.prototype.connect@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:111
+ld/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1673
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+md.prototype.connect@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:111
+ld/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1673
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+P/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:1136
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+P/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:1136
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+P/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:1136
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+M/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:441
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+M/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:441
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+gf/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:102:530
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+Qe/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:827
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+k@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:478
+Bd/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:682
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+Uc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:87:81
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
+Bd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:641
+Cd/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:975
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+yd/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:226
+Ad@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:399
+yd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:179
+Ad@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:399
+yd/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:59
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
+Se/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1022
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+Qe/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:827
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+k@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:478
+Bd/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:682
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+Uc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:87:81
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
+Bd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:641
+Cd/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:975
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+yd/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:226
+Ad@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:399
+yd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:179
+Ad@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:399
+yd/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:59
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
+Wd/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:1424
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
+Se/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:1022
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+Qe/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:827
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+k@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:478
+Bd/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:682
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 143: TypeError: this._listeners is undefined
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1901 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733112841466	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3518 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4414 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733112848998	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2743 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4126 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733112853198	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733112853285	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22mIR_4l9kRTZoZlhGOVdsblRaUHV2eW5IdVRjTzFhdjVhdVB4TjhzdzU0amtLJTJCRXFsQ3NjWURvS2laS3RxWkR2YUtEbTk5NENHSEFNbHlFZU5qdUw1TGglMkZmMUNDeGQlMkJCOXhZdVdHNHIwUGNSdWY0Q29BYkM3YVg5czZ4b2ElMkJHRDJjOWl5WXhzbFpmYVZqUWkxZFc1TDRXVVhVdyUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.21801082322496546%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22mIR_4l9kRTZoZlhGOVdsblRaUHV2eW5IdVRjTzFhdjVhdVB4TjhzdzU0amtLJTJCRXFsQ3NjWURvS2laS3RxWkR2YUtEbTk5NENHSEFNbHlFZU5qdUw1TGglMkZmMUNDeGQlMkJCOXhZdVdHNHIwUGNSdWY0Q29BYkM3YVg5czZ4b2ElMkJHRDJjOWl5WXhzbFpmYVZqUWkxZFc1TDRXVVhVdyUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.21801082322496546%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3137
+r/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22mIR_4l9kRTZoZlhGOVdsblRaUHV2eW5IdVRjTzFhdjVhdVB4TjhzdzU0amtLJTJCRXFsQ3NjWURvS2laS3RxWkR2YUtEbTk5NENHSEFNbHlFZU5qdUw1TGglMkZmMUNDeGQlMkJCOXhZdVdHNHIwUGNSdWY0Q29BYkM3YVg5czZ4b2ElMkJHRDJjOWl5WXhzbFpmYVZqUWkxZFc1TDRXVVhVdyUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.21801082322496546%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3642
+
+1733112858669	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+1733112862020	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733112862032	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733112862032	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733112862033	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733112862034	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13742
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 236: Script terminated by timeout at:
+Vn@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:236:325
+Bp/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:262:464
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:480
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+ih/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:320
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1848 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733112871908	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_705481950, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_705481950:444:310
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_705481950:442:29
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13833
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7810 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript warning: https://a.vdo.ai/core/assets/player/vdo.player.8.0.js, line 2: Script terminated by timeout at:
+an/this.timeupdateHandler<@https://a.vdo.ai/core/assets/player/vdo.player.8.0.js:2:156638
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22CIhBiV9kRTZoZlhGOVdsblRaUHV2eW5IdVRaYnF3ak5BRW5xRVkzSUNmMDZxMlg2N0pIOHdxbjNXUVp6RzNlVVBiWmYxUHB0ZjNmTHE5S2ZpVXVzMlk0YUpIaUROSmF5MWltOXdkbFVENUJPbkl4U1VtJTJGRkl0bXVCJTJGdkIzckhHNlZWVjhNYklvOFJKTTZ5WDlqcXVQVjU1WUxnJTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.47872590409883653%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22CIhBiV9kRTZoZlhGOVdsblRaUHV2eW5IdVRaYnF3ak5BRW5xRVkzSUNmMDZxMlg2N0pIOHdxbjNXUVp6RzNlVVBiWmYxUHB0ZjNmTHE5S2ZpVXVzMlk0YUpIaUROSmF5MWltOXdkbFVENUJPbkl4U1VtJTJGRkl0bXVCJTJGdkIzckhHNlZWVjhNYklvOFJKTTZ5WDlqcXVQVjU1WUxnJTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.47872590409883653%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3418
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22CIhBiV9kRTZoZlhGOVdsblRaUHV2eW5IdVRaYnF3ak5BRW5xRVkzSUNmMDZxMlg2N0pIOHdxbjNXUVp6RzNlVVBiWmYxUHB0ZjNmTHE5S2ZpVXVzMlk0YUpIaUROSmF5MWltOXdkbFVENUJPbkl4U1VtJTJGRkl0bXVCJTJGdkIzckhHNlZWVjhNYklvOFJKTTZ5WDlqcXVQVjU1WUxnJTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.47872590409883653%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3152
+r/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22CIhBiV9kRTZoZlhGOVdsblRaUHV2eW5IdVRaYnF3ak5BRW5xRVkzSUNmMDZxMlg2N0pIOHdxbjNXUVp6RzNlVVBiWmYxUHB0ZjNmTHE5S2ZpVXVzMlk0YUpIaUROSmF5MWltOXdkbFVENUJPbkl4U1VtJTJGRkl0bXVCJTJGdkIzckhHNlZWVjhNYklvOFJKTTZ5WDlqcXVQVjU1WUxnJTNEJTNE%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.47872590409883653%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3642
+
+1733112991520	Marionette	INFO	Stopped listening on port 56161
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
