@@ -1950,3 +1950,943 @@ r/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.money
 1733112991520	Marionette	INFO	Stopped listening on port 56161
 Dynamically enable window occlusion 1
 [GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1733190352982	geckodriver	INFO	Listening on 127.0.0.1:49781
+1733190356108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49782" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilebGNrfu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733190356992	Marionette	INFO	Marionette enabled
+1733190357207	Marionette	INFO	Listening on port 49790
+WebDriver BiDi listening on ws://127.0.0.1:49782
+Read port: 49790
+1733190357431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+Q@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:12982
+@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13319
+@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:20284
+
+JavaScript warning: https://acdn.adnxs.com/dmp/async_usersync.html, line 6: Script terminated by timeout at:
+39@https://acdn.adnxs.com/dmp/async_usersync.html:6:10963
+a@https://acdn.adnxs.com/dmp/async_usersync.html:6:141
+38@https://acdn.adnxs.com/dmp/async_usersync.html:6:10206
+a@https://acdn.adnxs.com/dmp/async_usersync.html:6:141
+37@https://acdn.adnxs.com/dmp/async_usersync.html:6:9886
+a@https://acdn.adnxs.com/dmp/async_usersync.html:6:141
+36@https://acdn.adnxs.com/dmp/async_usersync.html:6:7035
+a@https://acdn.adnxs.com/dmp/async_usersync.html:6:141
+114@https://acdn.adnxs.com/dmp/async_usersync.html:6:2328
+a@https://acdn.adnxs.com/dmp/async_usersync.html:6:141
+@https://acdn.adnxs.com/dmp/async_usersync.html:6:935
+@https://acdn.adnxs.com/dmp/async_usersync.html:6:946
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4142 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4563 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 78: Script terminated by timeout at:
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:23
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:709
+L.prototype.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1262
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:356
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:709
+n.Mc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:113
+n.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:628
+n.Mc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:97
+n.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:628
+n.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:93
+md.prototype.connect/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:187
+L/this.Mc@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1046
+n.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:628
+ih/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:430
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13833
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 330 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2002 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 56: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5686 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6180 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733190383463	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733190383484	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733190387697	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 90: Script terminated by timeout at:
+ld/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1465
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+ih/c/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:268
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
+T/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:102:314
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+P/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:1197
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+Wd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:1544
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+ih/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:320
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.855275435290558%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.855275435290558%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3185
+r/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.855275435290558%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3642
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:13833
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fusersync.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2955 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1111615756, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1111615756:444:310
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1111615756:442:29
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 131: Script terminated by timeout at:
+ih/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:313
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13833
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+1733190409209	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733190409225	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1733193376285	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4004 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4462 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2868, MediaDecoderStateMachine #1] WARNING: Decoder=19a08825800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2868, MediaDecoderStateMachine #1] WARNING: Decoder=19a08825800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+[Child 2868, MediaDecoderStateMachine #1] WARNING: Decoder=19a085d4000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 2868, MediaDecoderStateMachine #1] WARNING: Decoder=19a085d4000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 90: Script terminated by timeout at:
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:879
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 589: TypeError: browser is null
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 589: TypeError: browser is null
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1721404416, line 7: Script terminated by timeout at:
+ca@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1721404416:7:1
+@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1721404416:7:8
+@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1721404416:1341:116
+
+JavaScript error: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1721404416, line 1350: ReferenceError: ima is not defined
+1733193408679	Marionette	INFO	Stopped listening on port 49790
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnorExiting due to channel error.
+malShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1733193490401	geckodriver	INFO	Listening on 127.0.0.1:50739
+1733193493481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50740" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilemjHYWr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733193493865	Marionette	INFO	Marionette enabled
+1733193494001	Marionette	INFO	Listening on port 50749
+WebDriver BiDi listening on ws://127.0.0.1:50740
+Read port: 50749
+1733193494182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.moneycontrol.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:159,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.8127234922678976%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.moneycontrol.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:159,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.8127234922678976%22}:13:3185
+r/<@https://gumi.criteo.com/syncframe?origin=publishertagids&topUrl=www.moneycontrol.com&gdpr=0&gdpr_consent=&gpp=&gpp_sid=-1#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:159,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.8127234922678976%22}:13:3642
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 48: Script terminated by timeout at:
+Ta.prototype.Vb@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:332
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:497
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 143: TypeError: this._listeners is undefined
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6291 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 236: Script terminated by timeout at:
+Vn@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:236:325
+Bp/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:262:464
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:480
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+ih/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:320
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7629 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 13: Script terminated by timeout at:
+C@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:13:325
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:449
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13833
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+1733193516676	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733193516676	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733193516676	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 254: TypeError: this._topCanvasBinding.canvas is null
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/library.1fbbf36d35f97ccfbd00.js, line 143: TypeError: this._listeners is undefined
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2485 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1303764292, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1303764292:444:310
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1303764292:442:29
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2795 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript error: https://stdb.bidsxchange.com/AdCode.js, line 196: uncaught exception: [ 1-cannot initiate communication with Bidschange server ]
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13833
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+1733193533267	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733193533267	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733193533268	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733193533268	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733193533268	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13742
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 782 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_2047094751, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_2047094751:444:310
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_2047094751:442:29
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 257 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733193556662	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 91: Script terminated by timeout at:
+od/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:372
+Nd.prototype.Ye@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:95:332
+Yd.prototype.execute@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:97:601
+Pd.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:457
+Yd.prototype.D@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:97:476
+hd.prototype.D@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:512
+od/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:350
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+md.prototype.connect@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:111
+ld/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1673
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+ih/c/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:268
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
+M/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:441
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+qf@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:103:1098
+pf.prototype.H@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:103:859
+ne.prototype.H@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:98:780
+Eo/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:250:200
+Eo/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:250:178
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:480
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:903
+dd.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:89:1294
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:903
+dd.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:89:1294
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:903
+dd.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:89:1294
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:903
+dd.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:89:1294
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+hf/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:102:778
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+M/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:473
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+oo/</h/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:242:1969
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:147
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+qg/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:515
+Ta.prototype.Vb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13833
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1941 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2781 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_19914259, line 445: Script terminated by timeout at:
+LB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_19914259:445:275
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_19914259:442:342
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4763 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval line 7178 > eval line 1 > eval line 1 > eval, line 1: Script terminated by timeout at:
+@https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval line 7178 > eval line 1 > eval line 1 > eval:1:34
+FF@https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval:7178:34960
+t.Y</<@https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval:7178:50152
+N9@https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval:7178:23187
+q9@https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval:7178:20387
+H@https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval:7178:177
+Zt@https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval:7178:28835
+c@https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval:7178:21085
+lp.RIW_@https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval:7178:53579
+K@https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval:7178:7953
+DD@https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval:7178:21799
+tY@https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval:7178:12739
+vA@https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval:7178:22901
+Wa/<@https://8191ce8d97587bde3f9c0a4e25ac3d89.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 18 > injectedScript:2:10662
+ab@https://8191ce8d97587bde3f9c0a4e25ac3d89.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 18 > injectedScript:2:10843
+Wa@https://8191ce8d97587bde3f9c0a4e25ac3d89.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 18 > injectedScript:2:10652
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+1733193573765	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733193573765	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733193573766	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733193573767	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1733193573767	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/bundles/9772.0967c8fb7beae0056cf7.js, line 15: TypeError: window.ChartApiInstance is null
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+ax@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:14741
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15326
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 13: Script terminated by timeout at:
+C@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:13:325
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:449
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3954 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1257828734, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1257828734:444:310
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1257828734:442:29
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941, line 1: Script terminated by timeout at:
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13833
+t@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:13850
+N@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:18318
+B@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=113941:1:15082
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7251 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 725 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2278 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2716 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5882 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 7808 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5986 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1507438970, line 493: Script terminated by timeout at:
+ND@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1507438970:493:13
+OD/<@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1507438970:484:970
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1507438970:442:103
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval line 606 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6082 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval line 416 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval line 3653 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval line 5414 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval line 5595 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1507439128, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1507439128:444:310
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1507439128:442:29
+
+JavaScript warning: https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.19889671190375857%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.19889671190375857%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3137
+r/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.19889671190375857%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:3642
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 6571 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5061 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2573 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 2264 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 5442 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 3624 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BTyv5pFpGDrzMSLZqR37SBGYEAdd5mTPRtM20egmyzk.js line 2 > eval line 3466 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 1617 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RJ33JqD_0F92LrPnHN8EXix2XvuHBMyQtF5rvO_qZuc.js line 2 > eval line 4133 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 83: Script terminated by timeout at:
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:83:876
+dd.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:89:1294
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+ih/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:320
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.gJavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1733195105454	Marionette	INFO	Stopped listening on port 52795
+Dynamically enable window occlusion 1
+console.error: "Error in worker resource://devtools/client/shared/source-map-loader/worker.js" ": "
+syndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:315
+qg/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:121:524
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+Bd/k/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:510
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:93:477
+
+1733194420466	Marionette	INFO	Stopped listening on port 50749
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1733195125085	geckodriver	INFO	Listening on 127.0.0.1:53450
+1733195128169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53451" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiled9vGaE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733195128632	Marionette	INFO	Marionette enabled
+1733195128782	Marionette	INFO	Listening on port 53460
+WebDriver BiDi listening on ws://127.0.0.1:53451
+Read port: 53460
+1733195128946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/pages/_app-9f47ac84645fb4cd.js, line 338: Script terminated by timeout at:
+I$@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/pages/_app-9f47ac84645fb4cd.js:338:5008
+y@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/71-da3a47fe61f8a781.js:1:146924
+ld@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:58402
+od@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:72732
+i@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:120264
+uI@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:99021
+52967/uM/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98889
+uM@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98894
+uS@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:93933
+x@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1365
+R@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1894
+
+1733195151606	Marionette	INFO	Stopped listening on port 53460
+Dynamically enable window occlusion 1
+1733195156202	geckodriver	INFO	Listening on 127.0.0.1:53547
+1733195159284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53548" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile7w9oMa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733195159667	Marionette	INFO	Marionette enabled
+1733195159815	Marionette	INFO	Listening on port 53557
+WebDriver BiDi listening on ws://127.0.0.1:53548
+Read port: 53557
+1733195159995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.imdb.com/, line 1613: Script terminated by timeout at:
+l@https://www.imdb.com/:1613:262
+
+1733195193956	Marionette	INFO	Stopped listening on port 53557
+Dynamically enable window occlusion 1
+1733195196958	geckodriver	INFO	Listening on 127.0.0.1:53640
+1733195200046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileYeNzI2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733195200493	Marionette	INFO	Marionette enabled
+1733195200662	Marionette	INFO	Listening on port 53650
+WebDriver BiDi listening on ws://127.0.0.1:53641
+Read port: 53650
+1733195200868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-586e30363a730dfd.js, line 27: Error: {}
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 589: TypeError: browser is null
+1733195730812	Marionette	INFO	Stopped listening on port 53650
+Dynamically enable window occlusion 1
+1733195735687	geckodriver	INFO	Listening on 127.0.0.1:54137
+1733195738775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileVmVPfp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733195739199	Marionette	INFO	Marionette enabled
+1733195739351	Marionette	INFO	Listening on port 54147
+WebDriver BiDi listening on ws://127.0.0.1:54138
+Read port: 54147
+1733195739538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-586e30363a730dfd.js, line 27: Error: {}
+JavaScript warning: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js, line 25: Script terminated by timeout at:
+l_@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:61281
+83426/t.useState@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:49:6163
+p@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/pages/_app-9f47ac84645fb4cd.js:235:345003
+ld@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:58402
+i@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:119367
+uI@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:99021
+52967/uM/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98889
+uM@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98894
+uS@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:93933
+x@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1365
+R@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1894
+
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 589: TypeError: browser is null
+1733195788707	Marionette	INFO	Stopped listening on port 54147
+Dynamically enable window occlusion 1
+1733195793494	geckodriver	INFO	Listening on 127.0.0.1:54254
+1733195796573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54255" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilevRccKE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733195797020	Marionette	INFO	Marionette enabled
+1733195797186	Marionette	INFO	Listening on port 54264
+WebDriver BiDi listening on ws://127.0.0.1:54255
+Read port: 54264
+1733195797391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-586e30363a730dfd.js, line 27: Error: {}
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1733195851571	Marionette	INFO	Stopped listening on port 54264
+Dynamically enable window occlusion 1
+console.error: "Error in worker resource://devtools/client/shared/source-map-loader/worker.js" ": "
+1733195854786	geckodriver	INFO	Listening on 127.0.0.1:54363
+1733195857869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54364" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilePt1B1J"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733195858311	Marionette	INFO	Marionette enabled
+1733195858466	Marionette	INFO	Listening on port 54372
+WebDriver BiDi listening on ws://127.0.0.1:54364
+Read port: 54372
+1733195858632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-586e30363a730dfd.js, line 27: Error: {}
+JavaScript warning: https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.js, line 9: Script terminated by timeout at:
+HY@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.js:9:47639
+n@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.core.js:10:10216
+1831/f/this.setup/<@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.core.js:10:10881
+f@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.js:9:45859
+328/e.trigger@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.js:9:44948
+668/e/re<@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.core.js:10:81793
+f@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.js:9:45859
+328/e.trigger@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.js:9:44963
+7753/n.set@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.js:9:25915
+668/i.set@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.core.js:10:82070
+1831/f/this.setup@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.core.js:10:10821
+668/Dt/this.setCaptions@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.core.js:10:77995
+setCaptions@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.js:9:91081
+576/t/<@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.js:9:96666
+setTimedTextTrackStyle@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/3752-00f44c8dfa5b9829.js:43:40509
+setTimedTextTrackStyle@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/3752-00f44c8dfa5b9829.js:43:46476
+83752/e9/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/3752-00f44c8dfa5b9829.js:47:4735
+e9@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/3752-00f44c8dfa5b9829.js:47:4772
+ta@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/3752-00f44c8dfa5b9829.js:47:5624
+ld@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:58402
+od@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:72732
+i@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:120264
+uI@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:99021
+52967/uM/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98889
+uM@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98894
+uS@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:93933
+x@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1365
+R@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1894
+
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 589: TypeError: browser is null
+1733195975735	Marionette	INFO	Stopped listening on port 54372
+Dynamically enable window occlusion 1
+1733195979180	geckodriver	INFO	Listening on 127.0.0.1:54523
+1733195982259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54524" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileyCMUWM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733195982660	Marionette	INFO	Marionette enabled
+1733195982809	Marionette	INFO	Listening on port 54533
+WebDriver BiDi listening on ws://127.0.0.1:54524
+Read port: 54533
+1733195982981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-586e30363a730dfd.js, line 27: Error: {}
+JavaScript warning: https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.js, line 9: Script terminated by timeout at:
+s@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.js:9:48366
+n@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.core.js:10:10301
+1831/f/this.setup@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.core.js:10:10716
+668/Dt/this.setCaptions@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.core.js:10:77995
+setCaptions@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.js:9:91081
+576/t/<@https://db187550c7dkf.cloudfront.net/jwplayer-unlimited-8.25.6/jwplayer.js:9:96666
+setTimedTextTrackStyle@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/3752-00f44c8dfa5b9829.js:43:40509
+setTimedTextTrackStyle@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/3752-00f44c8dfa5b9829.js:43:46476
+83752/e9/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/3752-00f44c8dfa5b9829.js:47:4735
+e9@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/3752-00f44c8dfa5b9829.js:47:4772
+ta@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/3752-00f44c8dfa5b9829.js:47:5624
+ld@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:58402
+od@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:72732
+i@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:120264
+uI@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:99021
+52967/uM/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98889
+uM@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98894
+uS@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:93933
+x@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1365
+R@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1894
+
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 589: TypeError: browser is null
+1733196110174	Marionette	INFO	Stopped listening on port 54533
+Dynamically enable window occlusion 1
+1733196112892	geckodriver	INFO	Listening on 127.0.0.1:54676
+1733196115969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54677" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilee6nAor"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733196116388	Marionette	INFO	Marionette enabled
+1733196116544	Marionette	INFO	Listening on port 54686
+WebDriver BiDi listening on ws://127.0.0.1:54677
+Read port: 54686
+1733196116734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-586e30363a730dfd.js, line 27: Error: {}
+1733196125107	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733196125108	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733196125108	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://www.imdb.com/title/tt2911666/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_John%2520Wick, line 2336: Script terminated by timeout at:
+l@https://www.imdb.com/title/tt2911666/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_John%2520Wick:2336:262
+
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 589: TypeError: browser is null
+1733197134396	Marionette	INFO	Stopped listening on port 54686
+Dynamically enable window occlusion 1
+Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733196154801	Marionette	INFO	Marionette enabled
+1733196154955	Marionette	INFO	Listening on port 54778
+WebDriver BiDi listening on ws://127.0.0.1:54769
+Read port: 54778
+1733196155151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-586e30363a730dfd.js, line 27: Error: {}
+JavaScript warning: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js, line 25: Script terminated by timeout at:
+a@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:81882
+52967/uD/n<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:101454
+uD@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:106132
+uI@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:99080
+52967/uM/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98889
+uM@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98894
+uS@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:93933
+x@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1365
+R@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1894
+
+JavaScript warning: https://www.imdb.com/title/tt2911666/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_John%2520Wick, line 2334: Script terminated by timeout at:
+z@https://www.imdb.com/title/tt2911666/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_John%2520Wick:2334:105
+
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 589: TypeError: browser is null
+1733197132086	Marionette	INFO	Stopped listening on port 54778
+Dynamically enable window occlusion 1
+1733197138061	geckodriver	INFO	Listening on 127.0.0.1:55554
+1733197141155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55555" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilemArJ0f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733197141568	Marionette	INFO	Marionette enabled
+1733197141722	Marionette	INFO	Listening on port 55563
+WebDriver BiDi listening on ws://127.0.0.1:55555
+Read port: 55563
+1733197141912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-586e30363a730dfd.js, line 27: Error: {}
+1733197150809	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733197150810	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733197150810	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733197150810	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 589: TypeError: browser is null
+1733198149119	Marionette	INFO	Stopped listening on port 55563
+Dynamically enable window occlusion 1
+5697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilesoB2MW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733197243455	Marionette	INFO	Marionette enabled
+1733197243601	Marionette	INFO	Listening on port 55706
+WebDriver BiDi listening on ws://127.0.0.1:55697
+Read port: 55706
+1733197243801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-586e30363a730dfd.js, line 27: Error: {}
+JavaScript warning: https://www.imdb.com/title/tt0120815/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Saving%2520Private%2520Ryan, line 2360: Script terminated by timeout at:
+l@https://www.imdb.com/title/tt0120815/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_Saving%2520Private%2520Ryan:2360:262
+
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 589: TypeError: browser is null
+1733198146922	Marionette	INFO	Stopped listening on port 55706
+Dynamically enable window occlusion 1
+1733198155625	geckodriver	INFO	Listening on 127.0.0.1:56594
+1733198158705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileyfzeg5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733198159079	Marionette	INFO	Marionette enabled
+1733198159236	Marionette	INFO	Listening on port 56604
+WebDriver BiDi listening on ws://127.0.0.1:56595
+Read port: 56604
+1733198159406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1733198209616	Marionette	INFO	Stopped listening on port 56604
+Dynamically enable window occlusion 1
+1733198271286	geckodriver	INFO	Listening on 127.0.0.1:56759
+1733198274369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56760" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilek567nj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733198274798	Marionette	INFO	Marionette enabled
+1733198274957	Marionette	INFO	Listening on port 56770
+WebDriver BiDi listening on ws://127.0.0.1:56760
+Read port: 56770
+1733198275109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-586e30363a730dfd.js, line 27: Error: {}
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-586e30363a730dfd.js, line 27: Error: {}
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-586e30363a730dfd.js, line 27: Error: {}
+1733198321591	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733198321591	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733198321592	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+[Child 15076, MediaDecoderStateMachine #1] WARNING: Decoder=2829c855c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 15076, MediaDecoderStateMachine #1] WARNING: Decoder=2829c855c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.imdb.com/title/tt3722118/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_God%2520Father" ({})
+JavaScript warning: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/pages/_app-9f47ac84645fb4cd.js, line 259: Script terminated by timeout at:
+Zl@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/pages/_app-9f47ac84645fb4cd.js:259:49599
+l@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/71-da3a47fe61f8a781.js:1:2598
+ld@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:58402
+od@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:72732
+i@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:120264
+uI@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:99021
+52967/uM/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98889
+uM@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98894
+uS@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:93933
+x@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1365
+R@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1894
+
+1733198455626	Marionette	INFO	Stopped listening on port 56770
+Dynamically enable window occlusion 1
+1733198950674	geckodriver	INFO	Listening on 127.0.0.1:57318
+1733198953758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileNnzojE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733198954174	Marionette	INFO	Marionette enabled
+1733198954325	Marionette	INFO	Listening on port 57328
+WebDriver BiDi listening on ws://127.0.0.1:57319
+Read port: 57328
+1733198954511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-586e30363a730dfd.js, line 27: Error: {}
+1733198973471	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733198973472	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733198973476	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733198973476	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733198973477	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733198973477	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-586e30363a730dfd.js, line 27: Error: {}
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.imdb.com/title/tt2911666/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_John%2520Wick" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.imdb.com/title/tt2911666/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_John%2520Wick" ({})
+JavaScript warning: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js, line 25: Script terminated by timeout at:
+lR@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:61940
+lz@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:62198
+83426/t.useEffect@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:49:5662
+97168/t.CSADynamicWidgetComponentWrapper@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/pages/_app-9f47ac84645fb4cd.js:167:2327
+ld@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:58402
+od@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:72732
+i@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:120264
+uI@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:99021
+52967/uM/<@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98889
+uM@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:98894
+uS@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:25:93933
+x@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1365
+R@https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/framework-a3e0a528d633d461.js:33:1894
+
+1733199305615	Marionette	INFO	Stopped listening on port 57328
+Dynamically enable window occlusion 1
+1733199362449	geckodriver	INFO	Listening on 127.0.0.1:57544
+1733199365521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57545" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile4XiBJb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733199365937	Marionette	INFO	Marionette enabled
+1733199366091	Marionette	INFO	Listening on port 57552
+WebDriver BiDi listening on ws://127.0.0.1:57545
+Read port: 57552
+1733199366280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-586e30363a730dfd.js, line 27: Error: {}
+1733199407006	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733199407006	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733199407007	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733199407007	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+1733199407007	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: https://dqpnq362acqdi.cloudfront.net/_next/static/chunks/2780-586e30363a730dfd.js, line 27: Error: {}
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.imdb.com/title/tt2911666/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_John%2520Wick" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.imdb.com/title/tt2911666/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_John%2520Wick" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.imdb.com/title/tt2911666/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_John%2520Wick" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.imdb.com/title/tt2911666/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_John%2520Wick" ({})
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

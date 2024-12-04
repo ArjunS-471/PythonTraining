@@ -31,5 +31,5 @@ for d in dict:
     navElement = driver.find_element(By.ID,"advchart")
     driver.implicitly_wait(2)
     time.sleep(1)
-    navElement.screenshot(d + '.jpg')
+    navElement.screenshot(d + '.png')
     time.sleep(2)
